@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275655539322",
+    "project_id": "bootcamp-bitirme-projesi-3fd85",
+    "storage_bucket": "bootcamp-bitirme-projesi-3fd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275655539322:android:0b2873c50a9ce6739799c3",
+        "android_client_info": {
+          "package_name": "com.example.bootcamp_bitirme_projesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275655539322-hggid2j4h63k7bhf50jom6vvrnh13adj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bootcamp_bitirme_projesi",
+            "certificate_hash": "165ece4e16bdec78973620bd05b538d27d57bdf4"
+          }
+        },
+        {
+          "client_id": "275655539322-69qvo7h5iro5uopjp9g6cmr1sdj0kueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdTV76sO5CzkF_AGGr9hf2FHDxrDRoNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275655539322-69qvo7h5iro5uopjp9g6cmr1sdj0kueg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
